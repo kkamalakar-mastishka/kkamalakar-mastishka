@@ -10,8 +10,8 @@
 - Frontend development with React and Angular
 
 📫 **How to Reach Me**: 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Email: kollimarlakamal@outlook.com
+- LinkedIn:https://www.linkedin.com/in/kamalakar-kollimarla-4105b4224/
 
 😄 **Pronouns**: He/Him
 
