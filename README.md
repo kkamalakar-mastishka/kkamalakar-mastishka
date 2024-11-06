@@ -10,7 +10,7 @@
 - Frontend development with React and Angular
 
 📫 **How to Reach Me**: 
-- Email: kollimarlakamal@outlook.com
+- Email: k.kamalakar@mastishkatech.com
 - LinkedIn:https://www.linkedin.com/in/kamalakar-kollimarla-4105b4224/
 
 😄 **Pronouns**: He/Him
